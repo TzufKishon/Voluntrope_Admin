@@ -14,8 +14,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Users can register an account using their email and password authorized by the project's managers.
 - Existing admin users can log in to access their accounts.
 
-  ![image](https://github.com/user-attachments/assets/12e30a32-89c9-4b1f-8420-14c6e339ff7c)
+![image](https://github.com/user-attachments/assets/12e30a32-89c9-4b1f-8420-14c6e339ff7c)
 
+![image](https://github.com/user-attachments/assets/d909f7d9-675a-4ea8-ad44-f53efe0a9fb8)
 
 ### Verified Donations
 - Volunteers undergo personal interviews and background checks.
@@ -25,13 +26,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Donors can provide financial support directly to individual volunteers or small organizations.
 - This feature bypasses traditional organizational structures for more effective support.
 
+![image](https://github.com/user-attachments/assets/e3277f7b-a905-49c5-9962-504e7643fdd4)
+
 ### Organized Volunteering
 - Funding options are available to hire employees for volunteer initiatives.
 - This supports the creation of sustainable and impactful volunteer programs.
 
+![image](https://github.com/user-attachments/assets/38551bf3-587a-4893-a33a-69c5e1b226b3)
+
 ### Project and Volunteer Management
 - Volunteers can create and manage projects with descriptions, funding goals, and required skills.
 - Donors can browse and support various projects directly.
+
+  ![image](https://github.com/user-attachments/assets/4460f36c-5e64-4725-b4e5-f3eb6a9b7b12)
 
 ## Technologies Used
 
