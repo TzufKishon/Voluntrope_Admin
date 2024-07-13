@@ -2,6 +2,8 @@
 
 Final project for an e-commerce platform connecting donors with verified volunteers.
 
+![image](https://github.com/user-attachments/assets/85b3422a-3ac6-4829-a949-8f791cf20362)
+
 Are you looking for a way to support grassroots volunteer initiatives directly? Voluntrope is an innovative platform that allows donors to provide financial support to verified individual volunteers and small organizations, bypassing traditional organizational structures.
 
 ## Video Introduction
