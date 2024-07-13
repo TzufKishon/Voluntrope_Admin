@@ -42,5 +42,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## Contributors
 
 - Zuf Kishon: [zufk123@gmail.com](mailto:zufk123@gmail.com)
+- Guy Honen: [guyh146@gmail.com](mailto:guyh146@gmail.com)
  
 ---
