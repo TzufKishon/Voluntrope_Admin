@@ -2,11 +2,11 @@
 
 Final project for an e-commerce platform connecting donors with verified volunteers.
 
-Are you looking for a way to directly support grassroots volunteer initiatives? Voluntrope is an innovative platform that allows donors to provide financial support to verified individual volunteers and small organizations, bypassing traditional organizational structures.
+Are you looking for a way to support grassroots volunteer initiatives directly? Voluntrope is an innovative platform that allows donors to provide financial support to verified individual volunteers and small organizations, bypassing traditional organizational structures.
 
 ## Video Introduction
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://github.com/user-attachments/assets/88b8f4f2-133b-47d8-8de1-9743da374818.mp4
 
 ## Features
 
@@ -42,10 +42,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Technologies Used
 
-- **Programming Language**: The application is built using JavaScript and React for the frontend, and Node.js for the backend.
-- **Framework**: Next.js is used to build a server-rendered React application.
+- **Programming Language**: The application uses JavaScript and React for the front and Node.js for the back.
+- **Framework**: Next.js builds a server-rendered React application.
 - **Database**: MongoDB is used for its flexibility, scalability, and performance.
-- **Cloud Storage**: AWS S3 is used for storing images and documents.
+- **Cloud Storage**: AWS S3 for storing images and documents.
 - **Payment Processing**: Stripe is integrated for handling donations.
 - **Authentication**: Google Cloud is used for user registration and authentication.
 
