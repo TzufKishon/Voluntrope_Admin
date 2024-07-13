@@ -14,6 +14,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Users can register an account using their email and password authorized by the project's managers.
 - Existing admin users can log in to access their accounts.
 
+  ![image](https://github.com/user-attachments/assets/12e30a32-89c9-4b1f-8420-14c6e339ff7c)
+
+
 ### Verified Donations
 - Volunteers undergo personal interviews and background checks.
 - All financial transactions and volunteer activities are documented for transparency.
