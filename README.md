@@ -1,40 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Voluntrope
 
-## Getting Started
+Final project for an e-commerce platform connecting donors with verified volunteers.
 
-First, run the development server:
+Are you looking for a way to directly support grassroots volunteer initiatives? Voluntrope is an innovative platform that allows donors to provide financial support to verified individual volunteers and small organizations, bypassing traditional organizational structures.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Video Introduction
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Features
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### User_Admin Authentication
+- Users can register an account using their email and password authorized by the project's managers.
+- Existing admin users can log in to access their accounts.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Verified Donations
+- Volunteers undergo personal interviews and background checks.
+- All financial transactions and volunteer activities are documented for transparency.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Direct Donations
+- Donors can provide financial support directly to individual volunteers or small organizations.
+- This feature bypasses traditional organizational structures for more effective support.
 
-## Learn More
+### Organized Volunteering
+- Funding options are available to hire employees for volunteer initiatives.
+- This supports the creation of sustainable and impactful volunteer programs.
 
-To learn more about Next.js, take a look at the following resources:
+### Project and Volunteer Management
+- Volunteers can create and manage projects with descriptions, funding goals, and required skills.
+- Donors can browse and support various projects directly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Programming Language**: The application is built using JavaScript and React for the frontend, and Node.js for the backend.
+- **Framework**: Next.js is used to build a server-rendered React application.
+- **Database**: MongoDB is used for its flexibility, scalability, and performance.
+- **Cloud Storage**: AWS S3 is used for storing images and documents.
+- **Payment Processing**: Stripe is integrated for handling donations.
+- **Authentication**: Google Cloud is used for user registration and authentication.
 
-## Deploy on Vercel
+## Contributors
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Zuf Kishon: [zufk123@gmail.com](mailto:zufk123@gmail.com)
+ 
+---
